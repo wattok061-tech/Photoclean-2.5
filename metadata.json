@@ -1,0 +1,7 @@
+{
+  "name": "PhotoClean AI",
+  "description": "A professional AI image editor that removes unwanted objects from your photos using natural language prompts. Upload, describe, and clean your images instantly.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
